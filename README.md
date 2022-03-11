@@ -100,5 +100,5 @@ TotalCoinsMined and TotalCoinSupply with educational visualizations
 
 
 ________________
-***REFERENCES:*** BSC, Google, StackOverFlow, GitHub
+***REFERENCES:*** BSC, Google, StackOverFlow, GitHub; image obtained from PNGwing.com 
 
