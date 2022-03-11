@@ -20,13 +20,7 @@ _________________
 _______________
 ***OVERVIEW:***
 
-
-Work with Martha , Senior manager for Advisory Services team at Accountability Accountingto prepare an analysis for an investment bank who wish to enter the Cryptocurrency market by way of offering a cryptocurrency investment portfolio
-report pertaining to which cryptocurrencies are on the market and how they can be grouped together into a classification system
-with K-means algorithm, which groups similar data into clusters
-implement PCA (principal component analysis)
-
-
+This challenge entailed collaberation with Martha, a Senior manager for the Advisory Services team at Accountability Accounting, to assist with preparation of an analysis for an investment bank who wishes to enter the Cryptocurrency market, by way of offering a cryptocurrency investment portfolio. A report was compiled addressing which cryptocurrencies are currently available on the market and how they can be grouped together into a classification system for this portfolio. Due to the nature of this project, unsupervised machine learning was deemed thr most efficient tool for analysis via a clustering algorithm with corresponding visualizations.
 
 
 ______________
