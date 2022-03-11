@@ -6,7 +6,7 @@ _________________
 
 ***RESOURCES:***
 
-***IMAGE:***  image obtained from PNGwing.com 
+***IMAGE:*** image obtained from PNGwing.com 
 
 ***DATA:*** crypto_data.csv, crypto_clustering_starter_code.ipynb
 
@@ -88,8 +88,9 @@ ______________
 ***SUMMARY:***
 
 
-In conclusion, unsupervised machine learning wa ssuccessfulll in determining the data required for the bank to implement its portfolio
-TotalCoinsMined and TotalCoinSupply with educational visualizations
+In conclusion, unsupervised machine learning was successfull in determining the data required for the bank to implement its novel portfolio implementation. Additionally, vizualization libraries were utilized to effectively convey the requested information as follows:
+1. 
+
 
 
 
