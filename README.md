@@ -34,7 +34,7 @@ keep traded cryptocurrencies. drop 'IsTrading' column, remove null rows, remove 
 <img width="1186" alt="D1-CoinName:drop CoinName" src="https://user-images.githubusercontent.com/90135381/157932866-632f8404-02da-46e6-9c36-7b3eddc6fff1.png">
 
 
-                          FIGURE 1: Removed non-trading Cryptocurrencies and Drop CoinName
+                         FIGURE 1: Removed non-trading Cryptocurrencies and Drop CoinName
 
 ***Deliverable 2: Reducing Data Dimensions Using PCA***
 
@@ -45,7 +45,7 @@ create pcs DF and include the 3 columns PC1, PC2, PC3, which has the index from 
 <img width="1440" alt="Del2-DF w:3 comp" src="https://user-images.githubusercontent.com/90135381/157932885-c59f0064-8980-4e23-ae0a-bad6ccd81f0f.png">
 
 
-                          FIGURE 2: PCA Algorith Reducing Dimensions to 3 Principal Componenets
+                         FIGURE 2: PCA Algorith Reducing Dimensions to 3 Principal Componenets
 
 
 ***Deliverable 3: Clustering Cryptocurrencies Using K-means***
@@ -60,9 +60,12 @@ add class column to hold the predictions with the following columns: Algorithm, 
 <img width="1313" alt="Del3-clustered DF" src="https://user-images.githubusercontent.com/90135381/157932927-fad1cf71-a2ad-4c3a-8264-3f7da071971a.png">
 
 
+                        FIGURE 3: Concatenated Clustered Dataframe with added CoinName and Class
 
 <img width="1139" alt="Del3-Elbow curve" src="https://user-images.githubusercontent.com/90135381/157932938-648d0c63-eeb2-4a58-a5d1-4815f9d5d16c.png">
 
+
+                        FIGURE 4: Elbow Curve Depicting Best K Value for Predictions
 
 ***Deliverable 4: Vizualize Cryptocurrencies Results***
 
@@ -76,16 +79,21 @@ create a scatterplot with X-axis='TotalCoinsMined' and Y-axis='TotalCoinSupply',
 <img width="1136" alt="Del4-3d scatter with hovername" src="https://user-images.githubusercontent.com/90135381/157932972-b9a868fd-e668-4da7-b4fe-157caee1961c.png">
 
 
+                        FIGURE 5: 3D Scatterplot with hover name and data for the 3 Clusters
+
 <img width="1176" alt="Del4-hvplot table()" src="https://user-images.githubusercontent.com/90135381/157932992-ec791b73-cf2c-463c-9831-e8b4dc3a4ec7.png">
 
 
+                        FIGURE 6: hvplot Table Illustrating tradable Cryptocurrencies
 
 <img width="1172" alt="Del4-DF with added CoinName and Class" src="https://user-images.githubusercontent.com/90135381/157932980-6a3b29cf-9d6e-43ad-b582-034960df04c1.png">
 
 
-
+                        FIGURE 7: Dataframe with added CoinName and Class
 
 <img width="1171" alt="Del4-Scatterplot" src="https://user-images.githubusercontent.com/90135381/157933002-0a822326-3e57-4d3b-97ef-f47ea31f1da1.png">
+
+                        FIGURE 8: Scatter plot with TotalCoinsMined and TotalCoinSupply, by class
 
 ______________
 ***SUMMARY:***
