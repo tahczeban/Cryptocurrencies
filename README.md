@@ -20,7 +20,7 @@ _________________
 _______________
 ***OVERVIEW:***
 
-This challenge entailed collaberation with Martha, a Senior manager for the Advisory Services team at Accountability Accounting, to assist with preparation of an analysis for an investment bank who wishes to enter the Cryptocurrency market, by way of offering a cryptocurrency investment portfolio. A report was compiled addressing which cryptocurrencies are currently available on the market and how they can be grouped together into a classification system for this portfolio. Due to the nature of this project, unsupervised machine learning was deemed thr most efficient tool for analysis via a clustering algorithm with corresponding visualizations.
+This challenge entailed collaberation with Martha, a Senior manager for the Advisory Services team at Accountability Accounting, to assist with preparation of an analysis for an investment bank who wishes to enter the Cryptocurrency market by way of offering a cryptocurrency investment portfolio. A report was compiled addressing which cryptocurrencies are currently available on the market and how they can be grouped together into a classification system for this investment venture. Due to the nature of this project, unsupervised machine learning was deemed the most efficient tool for analysis via a clustering algorithm with corresponding visualizations.
 
 
 ______________
