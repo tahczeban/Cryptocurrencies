@@ -87,13 +87,11 @@ create a scatterplot with X-axis='TotalCoinsMined' and Y-axis='TotalCoinSupply',
 ______________
 ***SUMMARY:***
 
-
 In conclusion, unsupervised machine learning was successfull in determining the data required for the bank to implement its novel portfolio implementation. Additionally, vizualization libraries were utilized to effectively convey the requested information as follows:
-1. 
-
-
-
-
+1. the elbow curve depicting the best value for K for the K-means algorithm for cryptocurrency cluster predictions
+2. a 3D scatterplot plotting the 3 clusters, including hover name and data
+3. the hvplot.table() listing clustered PCA data and in tabular format
+4. a scatterplot illustrating TotalCoinsMined(x) and TotalCoinSupply(y) by Class
 
 ________________
 ***REFERENCES:*** BSC, Google, StackOverFlow, GitHub
