@@ -84,7 +84,7 @@ This Deliverable included clustering with vizualizations:
 
 In this last Deliverable, the results were transformed into relatable vizualizations:
 1. plotly express/hvplot were utilized to create a 3D scatter plot for visualizing the distinct groups corresponding to the 3 principal components
-2. CoinName' and 'Algorithm' columns were added to the hover_name and hover_data parameters to show the data points
+2. 'CoinName' and 'Algorithm' columns were added to the hover_name and hover_data parameters to show the data points
 3. a table displaying the tradable cryptocurrencies with hvplot.table() was created 
 4. the total number of tradable cryptocurrencies was printed
 5. a DF containing clustered_df index, the scaled data and the columns 'CoinName' and 'Class' was created
