@@ -6,6 +6,7 @@ _________________
 
 ***RESOURCES:***
 
+***IMAGE:***  image obtained from PNGwing.com 
 
 ***DATA:*** crypto_data.csv, crypto_clustering_starter_code.ipynb
 
@@ -30,7 +31,7 @@ implement PCA (principal component analysis)
 
 ______________
 ***RESULTS:***
-_
+
 
 ***Deliverable 1: Preprocessing the data for PCA.***
 
@@ -100,5 +101,5 @@ TotalCoinsMined and TotalCoinSupply with educational visualizations
 
 
 ________________
-***REFERENCES:*** BSC, Google, StackOverFlow, GitHub; image obtained from PNGwing.com 
+***REFERENCES:*** BSC, Google, StackOverFlow, GitHub
 
