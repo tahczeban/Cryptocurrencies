@@ -34,6 +34,8 @@ keep traded cryptocurrencies. drop 'IsTrading' column, remove null rows, remove 
 <img width="1186" alt="D1-CoinName:drop CoinName" src="https://user-images.githubusercontent.com/90135381/157932866-632f8404-02da-46e6-9c36-7b3eddc6fff1.png">
 
 
+                          FIGURE 1: Removed non-trading Cryptocurrencies and Drop CoinName
+
 ***Deliverable 2: Reducing Data Dimensions Using PCA***
 
 apply Principal Component Analysis algorithm and reduce X-DF into 3 dimensions and place into new DF 
@@ -43,6 +45,7 @@ create pcs DF and include the 3 columns PC1, PC2, PC3, which has the index from 
 <img width="1440" alt="Del2-DF w:3 comp" src="https://user-images.githubusercontent.com/90135381/157932885-c59f0064-8980-4e23-ae0a-bad6ccd81f0f.png">
 
 
+                          FIGURE 2: PCA Algorith Reducing Dimensions to 3 Principal Componenets
 
 
 ***Deliverable 3: Clustering Cryptocurrencies Using K-means***
