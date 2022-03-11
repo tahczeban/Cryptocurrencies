@@ -65,7 +65,8 @@ ______________
 ***SUMMARY:***
 ______________
 
-
+In conclusion, unsupervised machine learning wa ssuccessfulll in determining the data required for the bank to implement its portfolio
+TotalCoinsMined and TotalCoinSupply with educational visualizations
 
 
 
