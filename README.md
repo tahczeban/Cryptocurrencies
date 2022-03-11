@@ -1,7 +1,7 @@
 # Cryptocurrencies
 _________________
 ***RESOURCES:***
-________________
+
 
 ***DATA:*** crypto_data.csv, crypto_clustering_starter_code.ipynb
 
@@ -14,7 +14,7 @@ ________________
 
 _______________
 ***OVERVIEW:***
-_______________
+
 
 Work with Martha , Senior manager for Advisory Services team at Accountability Accountingto prepare an analysis for an investment bank who wish to enter the Cryptocurrency market by way of offering a cryptocurrency investment portfolio
 report pertaining to which cryptocurrencies are on the market and how they can be grouped together into a classification system
@@ -26,7 +26,7 @@ implement PCA (principal component analysis)
 
 ______________
 ***RESULTS:***
-______________
+_
 
 ***Deliverable 1: Preprocessing the data for PCA.***
 
@@ -87,7 +87,7 @@ create a scatterplot with X-axis='TotalCoinsMined' and Y-axis='TotalCoinSupply',
 
 ______________
 ***SUMMARY:***
-______________
+
 
 In conclusion, unsupervised machine learning wa ssuccessfulll in determining the data required for the bank to implement its portfolio
 TotalCoinsMined and TotalCoinSupply with educational visualizations
@@ -97,4 +97,4 @@ TotalCoinsMined and TotalCoinSupply with educational visualizations
 
 ________________
 ***REFERENCES:*** BSC, Google, StackOverFlow, GitHub
-_________________
+
