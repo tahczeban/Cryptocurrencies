@@ -122,5 +122,5 @@ In conclusion, unsupervised machine learning was successfull in determining the 
 4. a scatterplot illustrating TotalCoinsMined(x) and TotalCoinSupply(y) by Class
 
 ________________
-***REFERENCES:*** BSC, Google, StackOverFlow, GitHub
+***REFERENCES:*** BCS, Google, StackoverFlow, GitHub
 
